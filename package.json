@@ -1,7 +1,7 @@
 {
   "name": "api",
   "version": "3.10.10",
-  "description": "\"\"",
+  "description": "Implement back end",
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.16.1",
@@ -19,10 +19,8 @@
     "type": "git",
     "url": "git+https://github.com/ZainabOmar/APIsprint.git"
   },
-  "keywords": [
-    "express"
-  ],
-  "author": "\"\"",
+  
+  "author": "Zainab Hammami",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/ZainabOmar/APIsprint/issues"
