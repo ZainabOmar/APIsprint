@@ -1,0 +1,31 @@
+{
+  "name": "api",
+  "version": "3.10.10",
+  "description": "\"\"",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.4",
+    "morgan": "^1.8.1",
+    "mongodb": "^2.2.24",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZainabOmar/APIsprint.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "\"\"",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ZainabOmar/APIsprint/issues"
+  },
+  "homepage": "https://github.com/ZainabOmar/APIsprint#readme"
+}
